@@ -1,0 +1,15 @@
+{
+  "short_name": "Covi-19 App",
+  "name": "Covid-19 Tracker App",
+  "icons": [
+    {
+      "src": "covid19-logo",
+      "sizes": "1200x1205",
+      "type": "image/png" 
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
